@@ -60,7 +60,7 @@ Le spectrophotomètre est largement utilisé dans :
 - **Écran LCD 16x2** : Affichage des résultats
 
 ## ⚙️ Schéma de Principe
-![Schéma](./reflecto_principe.png)
+![Schéma](./images/reflecto_principe.png)
 
 Le réflectomètre fonctionne en mesurant l’intensité de lumière réfléchie par une surface et en la comparant à des références colorimétriques.
 
