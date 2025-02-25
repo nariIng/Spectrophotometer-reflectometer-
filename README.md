@@ -1,6 +1,5 @@
 # 📡 Mini Spectrophotomètre et Réflectomètre Visible
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue.svg)]()
 
@@ -78,11 +77,6 @@ Le réflectomètre est crucial dans :
 - **L’industrie automobile** : vérification des peintures et finitions.
 - **L’industrie cosmétique** : standardisation des teintes.
 - **L’impression et la fabrication de papiers** : contrôle des couleurs et qualité.
-
-## 🔬 Résultats Expérimentaux
-### Modèles de Réflectance Mesurés
-![Graphique](path_to_graph_reflecto.png)
-
 ---
 
 ## 🏆 Avantages du Projet
@@ -95,17 +89,14 @@ Le réflectomètre est crucial dans :
 - Ajout d'un **module d’intelligence artificielle** pour l’interprétation automatique des résultats.
 - Développement d'une **interface web interactive** pour le contrôle à distance.
 
-## 📝 Installation et Utilisation
-1. **Cloner le dépôt** :
-   ```bash
-   git clone https://github.com/votre-repo/spectrophotometre.git
-   ```
-2. **Uploader le code sur l'ESP32** via l'IDE Arduino.
-3. **Configurer les paramètres** selon le protocole expérimental.
-4. **Lancer l’analyse** et visualiser les résultats sur l’écran LCD.
+## 📝 Détailles
+Les détailles sont disponibles dans le pdf et pouront être telechargés via le lien 
+- [Download](https://linkedin.com/in/your-profile)
 
 ## 🧑‍🔬 Auteur
-**Narindranjanahary Emmanuëla** - [LinkedIn](https://linkedin.com/in/your-profile)
+**Narindranjanahary Emmanuela** - [LinkedIn](https://linkedin.com/in/your-profile)
 
-## 📜 Licence
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+## 🚀 Licence
+Ce projet est sous licence **Ecole Supérieure Polytechnique d'Antananarivo (ESPA)**, permettant à quiconque de partager, adapter et améliorer le contenu, tant que l'attribution est faite et que les nouvelles œuvres sont distribuées sous la même licence.
+## 🚀 Prix_remporter 
+Ce projet a remporté le 3em prix des pays fracophones organisé par **CITEF** dans l'innovation technologique en 2022
