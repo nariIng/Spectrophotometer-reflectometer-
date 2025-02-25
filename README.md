@@ -20,7 +20,7 @@ L'objectif principal de ce projet est de concevoir et développer ces appareils 
 - **Cuvettes à échantillons** : Pour contenir les solutions analysées
 
 ## ⚙️ Schéma de Principe
-![Schéma](path_to_schema_spectro.png)
+![Schéma](./images/spectro_principe.png)
 
 Le système fonctionne selon le principe de la **spectrophotométrie d’absorption** : un faisceau de lumière traverse un échantillon et le capteur mesure la quantité de lumière absorbée.
 
@@ -40,7 +40,7 @@ Le spectrophotomètre est largement utilisé dans :
 
 ## 🔬 Résultats Expérimentaux
 ### Courbe d’Absorbance en Fonction de la Concentration
-![Graphique](path_to_graph_spectro.png)
+![Graphique](./images/Picture5.png)
 
 ### Comparaison avec un Spectrophotomètre Commercial
 | Paramètre | Appareil Conçu | Appareil Commercial |
@@ -60,7 +60,7 @@ Le spectrophotomètre est largement utilisé dans :
 - **Écran LCD 16x2** : Affichage des résultats
 
 ## ⚙️ Schéma de Principe
-![Schéma](path_to_schema_reflecto.png)
+![Schéma](./reflecto_principe.png)
 
 Le réflectomètre fonctionne en mesurant l’intensité de lumière réfléchie par une surface et en la comparant à des références colorimétriques.
 
@@ -91,7 +91,7 @@ Le réflectomètre est crucial dans :
 
 ## 📝 Détailles
 Les détailles sont disponibles dans le pdf et pouront être telechargés via le lien 
-- [Download](./pfd/*)
+- [Download](./pfd/spectro_&_reflecto.pdf)
 
 ## 🧑‍🔬 Auteur
 **Narindranjanahary Emmanuela** - [linkedin.com/in/emmanuela-narindranjanahary-7194272a7](www.linkedin.com/in/emmanuela-narindranjanahary-7194272a7)
