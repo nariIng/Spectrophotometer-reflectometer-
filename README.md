@@ -91,7 +91,7 @@ Le réflectomètre est crucial dans :
 
 ## 📝 Détailles
 Les détailles sont disponibles dans le pdf et pouront être telechargés via le lien 
-- [Download](./pfd/spectro_&_reflecto.pdf)
+- [Download](./pdf/spectro_&_reflecto.pdf)
 
 ## 🧑‍🔬 Auteur
 **Narindranjanahary Emmanuela** - [linkedin.com/in/emmanuela-narindranjanahary-7194272a7](www.linkedin.com/in/emmanuela-narindranjanahary-7194272a7)
